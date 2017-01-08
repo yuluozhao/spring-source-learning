@@ -18,5 +18,6 @@
   	<module>spring-core</module>
     <module>spring-context</module>
     <module>spring-beans</module>
+      <module>demo</module>
   </modules>
 </project>
